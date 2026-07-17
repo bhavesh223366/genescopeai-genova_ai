@@ -1,4 +1,3 @@
-# GeneScope Innovators
 #Genescope AI/Genova AI: 
 Full-stack AI-driven platform built with Next.js + FastAPI + Modal GPU, running Evo2 genomic LLM to interpret genetic mutations and classify pathogenicity with high accuracy.
 
